@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_c5940f1262c3e1ecab4d8d0593836e34d56077f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/julieanneglennon/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_e3338b75b320b198f2f995af64ac5326982cae8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_bd3c9d6f728c74790325658b1285cbfb1c22a4a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_a9d4c18e880b8c9d00df7ea5477b866901f46fbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.0.1_a3dbae2e8a60130a8a88114ba335b93c05526a01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_450d398259a26a621b7216f17b597187aaa4783e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="87587d7ce96e002e6bc551abd6ec7ce7465b87bd">
+        <dex dex="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_33b63387fe049102022be00acb8c4a6307b8dab9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1181d41fbd764b4c0e71bfa1c2efbd0293b12db1">
+        <dex dex="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_55707aad6974634f4420e27e80bec4f947061bab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_5444613ba66946507545b342050a68decae5512c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.0.1_95310e015c0f7ed58595fe17ebaac3b34ad3844e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_088a7f627ce5174ea9ea71704fd24f16885162c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_fcf2eeae38577c2b90016fca5ec74aa2196d2d3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_084d6ee676fbd75d53dab7ae805a62b86d025f11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_ea8b053cca582bfc69864c01a127f5bb91d48f8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_37c15b75f6b6bc29c07604a48100824db3263403/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_dbfa881b35bbb005d8cdcfd3c33378af2e2511e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_0700c9ca9d8f5c594cce6d195068f4ecf36a0d5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.0.1_c702c2a84d9192c4bfe6b81c6725bbc1c6086699/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_af8aca7af83859fcb2755dc00e6f7c9824bfd236/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_3c79fcbe38ab7a4e3a4dcad31291a2633ba43436/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_3a628cd0b77e6466ac3f4c57a77bcc46b97feed1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/julieanneglennon/Desktop/AndroidStudioProjects/4thYearProject/POSTJSON/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_38485ed99a68fda530fdbe25dc35634e4f273914/classes.dex" />
+    </item>
+
+</items>

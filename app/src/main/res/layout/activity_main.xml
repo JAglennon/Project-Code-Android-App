@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.FitWindowsLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="20dp"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="20dp"
+    tools:context="com.julieanne2864184gmail.postjson.MainActivity"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/tvIsConnected"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:background="#FF0000"
+        android:textColor="#FFF"
+        android:textSize="18dp"
+        android:layout_marginBottom="20dp"
+        android:text="is connected?" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/username"
+        android:textSize="24sp"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimary"
+        android:layout_weight="0.04" />
+
+
+        <TextView
+            android:id="@+id/tvGlucose"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvName"
+            android:text="Glucose"
+            android:paddingTop="10dp"
+            android:textSize="20sp"
+            android:layout_alignBaseline="@+id/etAge"/>
+        <EditText
+            android:id="@+id/etGlucose"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/tvAge"
+            android:layout_below="@+id/etName"
+            android:imeOptions="actionDone"/>
+
+
+    <Button
+        android:id="@+id/btnPost"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:text="POST" />
+
+
+
+    <TextView
+        android:id="@+id/tvJSON"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnPost"/>
+
+
+
+</android.support.v7.widget.FitWindowsLinearLayout>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_go_register"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.julieanne2864184gmail.postjson.GoRegister"
+    tools:showIn="@layout/activity_register">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:backgroundTint="@android:color/background_light"
+        android:background="@android:color/darker_gray"
+        tools:background="@android:color/darker_gray">
+
+        <TextView
+            android:id="@+id/tvfName"
+            android:text="First Name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#d6d7d7"
+            android:ems="10"
+            android:id="@+id/edfName"
+            android:textAlignment="center"
+            android:inputType="text"
+            android:backgroundTint="?attr/colorButtonNormal"
+            android:padding="5dp" />
+
+        <TextView
+            android:text="Last Name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvlName" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#d6d7d7"
+            android:inputType="textPersonName"
+            android:ems="10"
+            android:id="@+id/edlName"
+            android:textAlignment="center"
+            android:padding="5dp" />
+
+        <TextView
+            android:text="Your Birthday"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/YourBirthday" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#d6d7d7"
+            android:inputType="date"
+            android:ems="10"
+            android:id="@+id/DoB"
+            android:padding="5dp"
+            android:textAlignment="center" />
+
+        <TextView
+            android:text="Your Gender"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvGender" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#d6d7d7"
+            android:inputType="textPersonName"
+            android:ems="10"
+            android:id="@+id/edGender"
+            android:padding="5dp"
+            android:textAlignment="center" />
+
+        <TextView
+            android:text="Your Email Address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvEmailAddress" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#d6d7d7"
+            android:inputType="textEmailAddress"
+            android:ems="10"
+            android:id="@+id/edEmailAddress"
+            android:textAlignment="center"
+            android:padding="5dp" />
+
+        <TextView
+            android:text="User Name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvUserName" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#d6d7d7"
+            android:inputType="textPersonName"
+            android:ems="10"
+            android:id="@+id/edUserName"
+            android:textAlignment="center"
+            android:padding="5dp" />
+
+        <TextView
+            android:text="Please Enter A Password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvPassword" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#d6d7d7"
+            android:inputType="textPassword"
+            android:ems="10"
+            android:id="@+id/edPassword"
+            android:textAlignment="center"
+            android:padding="5dp" />
+
+        <TextView
+            android:text="Please Re-Type Your Password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/PasswordCk" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#d6d7d7"
+            android:inputType="textPassword"
+            android:ems="10"
+            android:id="@+id/PasswordCK"
+            android:textAlignment="center"
+            android:padding="5dp" />
+
+        <Button
+            android:text="Register"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Register"
+            tools:backgroundTint="@android:color/holo_green_light"
+            android:padding="10dp" />
+    </LinearLayout>
+
+</RelativeLayout>
